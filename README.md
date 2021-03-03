@@ -10,6 +10,9 @@ Have no fear! Infinite Gravity is here! This infitite side-scrolling gravity gam
 
 CONTROLS:
 W - Jump
+
 A - Skate Right
+
 D - Skate Left
+
 S - Invert Gravity
