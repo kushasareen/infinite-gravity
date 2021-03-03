@@ -9,6 +9,7 @@ Have no fear! Infinite Gravity is here! This infitite side-scrolling gravity gam
 ![GameShot](https://github.com/kushasareen/sidescolling-gravity-game/blob/master/gameplay.png)
 
 CONTROLS:
+
 W - Jump
 
 A - Skate Right
