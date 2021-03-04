@@ -1,4 +1,4 @@
-# sidescolling-gravity-game
+# infinite-gravity
 
 Are you mourning the loss of Adobe Flash Player?
 
